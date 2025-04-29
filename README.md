@@ -29,7 +29,7 @@ Atualmente, estudo **SIEM, Linux hardening e Python para segurança**, desenvolv
 
 - 🔐 **Infra Web Monitor**  
   Monitoramento de acessos Apache com SQLite e scripts em Python.  
-  [Ver projeto »](https://github.com/ThiagoAlmeidaTI/infra-monitor)
+  [Ver projeto »](https://github.com/ThiagoAlmeidaTI/Infra-web-monitor)
 
 - 📡 **Lab de Logs e SIEM (em andamento)**  
   Experimentos com Wazuh e análise de eventos de segurança em Linux e Windows.
